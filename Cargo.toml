@@ -1,0 +1,8 @@
+[package]
+name = "flappy-ascii"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sebastian Kremarik <emilio.kremarik@gmail.com>"]
+
+[dependencies]
+bracket-lib = "~0.8.1"
